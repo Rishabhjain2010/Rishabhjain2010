@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rishabh Jain
-- 👀 I’m interested in React , Robotics, Automation , and IoT
-- 🌱 I’m currently learning Robotics and Data Science
-- 💞️ I’m looking to collaborate on Robotics Projects and Web Development
+- 👀 I’m a Full-Stack Developer | Embedded Systems  Robotics and Automation | IoT , Drones and UAVs | AWS | Innovator
 - 📫 How to reach me jainrishabh.201@gmail.com 
 - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> Connect with me www.linkedin.com/in/rishabhjain2010
 
