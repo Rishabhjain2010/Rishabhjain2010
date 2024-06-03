@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=rishabhjain2010&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhjain2010&theme=tokyonight&hide_border=false"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishabhjain2010&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain2010&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 
 
 
