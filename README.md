@@ -28,12 +28,12 @@ const rishabh = {
     askMeAbout: ["DevOps", "Software Development" , "Robots", "Automation" ,"Internet of Things" ,
                  "Web Development" , "UI/UX" , "Photography" , "Tech"],
     technologies: {
-        frontEnd: ["HTML & CSS " , "React.js", "Tailwind CSS" , "BootStrap"],
-        backEnd:  ["Node , Express"],
-        robotics: [ "ROS" , "ROS2" ,  
-        devOps: [,"AWS", "Docker", "Kubernetes", "Nginx"],
-        databases: ["MongoDB", "MySql", "PostgreSQL"],
-        misc: ["Firebase", "Netlify", "selenium", "open-cv", "", "SuiteApp"]
+        frontEnd:   ["HTML & CSS " , "React.js", "Tailwind CSS" , "BootStrap"],
+        backEnd:    ["Node , Express"],
+        robotics:   [ "ROS" , "ROS2" , "Arduino" , "Raspberry" , "Sensors and Sensor Network"  ], 
+        devOps:     ["AWS", "Docker", "Kubernetes", "Nginx"],
+        databases:  ["MongoDB", "MySql", "PostgreSQL"],
+        misc:       ["Firebase", "Netlify", "selenium", "open-cv", "postman" , "SuiteApp"]
     },
     currentFocus: "Building RoboDynamics & ParcelEye",
     funFact: "Type C ports were made by engineers to bring down errors while plugging into a Type A port. "
