@@ -17,6 +17,29 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rishabhjain2010.rishabhjain2010&"  />
 </div>
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const rishabh = {
+    me: Intert at Keen&Able Computers Pvt. Ltd.
+    pronouns: "He" | "Him",
+    code: ["C/C++", "Python", "JavaScript" , "Java" ],
+    askMeAbout: ["DevOps", "Software Development" , "Robots", "Automation" ,"Internet of Things" ,
+                 "Web Development" , "UI/UX" , "Photography" , "Tech"],
+    technologies: {
+        frontEnd: ["HTML & CSS " , "React.js", "Tailwind CSS" , "BootStrap"],
+        backEnd:  ["Node , Express"],
+        robotics: [ "ROS" , "ROS2" ,  
+        devOps: [,"AWS", "Docker", "Kubernetes", "Nginx"],
+        databases: ["MongoDB", "MySql", "PostgreSQL"],
+        misc: ["Firebase", "Netlify", "selenium", "open-cv", "", "SuiteApp"]
+    },
+    currentFocus: "Building RoboDynamics & ParcelEye",
+    funFact: "Type C ports were made by engineers to bring down errors while plugging into a Type A port. "
+};
+```
+
 ###
 
 <div align="center">
