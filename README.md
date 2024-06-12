@@ -23,7 +23,7 @@
 
 ```javascript
 const rishabh = {
-    me: Intert at Keen&Able Computers Pvt. Ltd.
+    me: Intern at Keen&Able Computers Pvt. Ltd.
     pronouns: "He" | "Him",
     code: ["C/C++", "Python", "JavaScript" , "Java" ],
     askMeAbout: ["DevOps", "Software Development" , "Robots", "Automation" ,"Internet of Things" ,
